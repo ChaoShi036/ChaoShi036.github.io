@@ -1,0 +1,12 @@
+- title: About
+  url: /about/
+- title: Publications
+  url: /publications/
+- title: Experiences
+  url: /experiences/
+- title: More
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/
