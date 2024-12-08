@@ -29,13 +29,13 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: 
-  card: 
+#twitter:
+#  username: 
+#  card: 
 logo: logo.png
-social:
+#social:
   name: Chao Shi
-  links:
-    - https://github.com/ChaoShi036
+#  links:
+#    - https://github.com/ChaoShi036
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
