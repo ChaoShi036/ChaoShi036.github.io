@@ -6,7 +6,6 @@
   url: /experiences/
 - title: Education
   url: /education/
-- title: More
-  sublinks:
-    - title: Docs
-      url: /docs/
+- title: Projects
+  url: /projects/
+  
