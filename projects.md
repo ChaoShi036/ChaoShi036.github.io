@@ -26,6 +26,6 @@ This work uses structured overlay networks that run on top of the internet to im
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/globe_big.jpg" style="width: 200px; margin-right: 20px;">
+  <img src="/blockchain.png" style="width: 200px; margin-right: 20px;">
   <p>Block Chain introduced as an new technology, give its high impact to both industry and academic. With this topic becoming hot recent years, issues of chain process comes to real-world. Especially in data storage area, we observe the failure of system configurations from storage side may effect the chain process of whole block ecosystem, we are now expand our design of the configurations related issue in block ecosystem..  </p>
 </div>
