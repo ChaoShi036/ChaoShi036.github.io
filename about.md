@@ -6,3 +6,5 @@ permalink: /about/
 
 Hi, I'm Chao Shi (Chris), a first year PhD student from the Department of Electrical and Computer Engineering at Iowa State University(ISU). Previously I graduated from Telecommunication at University of Pittsburgh, advised by Dr. Amy Babay.
 
+Currently, my research focus on distributed storage system, Erasure coding and system level configuration fault tolerance. I also interested in AI4Science especially in healcare areas.
+
