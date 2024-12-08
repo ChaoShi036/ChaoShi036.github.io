@@ -15,7 +15,7 @@ permalink: /projects/
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/Poster_msst24.png" style="width: 200px; margin-right: 20px;">
+  <img src="/globe_big.png" style="width: 200px; margin-right: 20px;">
   <p>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).
 
 This work uses structured overlay networks that run on top of the internet to implement custom routing and transport protocols to enable new services that are not well supported on the native internet. </p>
