@@ -1,8 +1,8 @@
 ---
 layout: archive-taxonomies
-type: categories
-title: Categories
-permalink: /categories/
+type: publications
+title: Publications
+permalink: /publications/
 ---
 Revisiting Erasure Codes: A Configuration Perspective.
 Runzhou Han, Chao Shi, Tabassum Mahmud, Zeren Yang, Vladislav Esaulov, Lipeng Wan, Yong Chen, Jim Wayda, Matthew Wolf, Mai Zheng
