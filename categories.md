@@ -1,6 +1,6 @@
 ---
 layout: page
-type: publications
+title: Publications
 permalink: /publications/
 ---
 [**Revisiting Erasure Codes: A Configuration Perspective**](https://dl.acm.org/doi/10.1145/3655038.3665951)<br>
