@@ -1,8 +1,8 @@
 title: Chao Shi
 description: See yourself through others.
-author: Chao Shi & Shangzhi Huang
+author: Chao Shi
 avatar: /logo.png
-email: coshi036@gmail.com & ngzhio@gmail.com
+email: coshi036@gmail.com
 
 plugins:
   - jekyll-seo-tag
